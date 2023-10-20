@@ -24,7 +24,7 @@ wisnuvpnn="raw.githubusercontent.com/lihin929/allport443/sae/xray"
 wisnuvpnnn="raw.githubusercontent.com/lihin929/allport443/sae/trojango"
 
 # Link Hosting Kalian Untuk Stunnel5
-wisnuvpnnnn="raw.githubusercontent.com/lihin929/allport443/sae/stunnel5"
+wisnuvpnnnn="raw.githubusercontent.com/lihin929/allport443/sae/stunne5"
 
 wisnuvpnnnnn="raw.githubusercontent.com/lihin929/allport443/sae/update"
 # initializing var
