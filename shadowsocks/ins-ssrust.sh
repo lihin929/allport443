@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ~
-wisnuvpn="raw.githubusercontent.com/wisnucokrosatrio/shanum/main/shadowsocks"
+wisnuvpn="raw.githubusercontent.com/lihin929/allport443/sae/shadowsocks"
 rm -rf shadowsocks-v* xray-plugin* v2ray-plugin*
 lurl='https://api.github.com/repos/shadowsocks/shadowsocks-rust/releases/latest'
 latest_version=`curl $lurl| grep tag_name |awk -F '[:,"v]' '{print $6}'`
