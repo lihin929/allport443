@@ -881,3 +881,4 @@ rm -f /root/cert.pem
 rm -f /root/ssh-vpn.sh
 # finishing
 clear
+sleep 1
